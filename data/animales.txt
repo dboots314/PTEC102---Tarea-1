@@ -1,0 +1,151 @@
+Peces
+Alfonsino
+Anchoveta
+Bacalao de profundidad
+Besugo
+Caballa
+Congrio dorado
+Congrio negro
+Jurel
+Lenguado
+Merluza común
+Merluza de cola
+Merluza de tres aletas
+Merluza del sur
+Orange roughy
+Pejegallo
+Pez espada
+Puye
+Raya volantín
+Reineta
+Salmon coho
+Salmón del atlántico
+Sardina austral
+Sardina común
+Sardina española
+
+Reptiles
+Tortugas
+Tuátara
+Anfisbenio
+Iguana
+Anolis
+Lagartija
+Chucuala
+Agama
+Dragón de Komodo
+Geco
+Camaleón
+Salamanquesa
+Cocodrilos
+Escinco
+Eslizón
+Teyú
+Lagarto
+Calango verde
+Monstruo de Gila
+Serpientes
+
+Aves
+Ganso
+Urraca
+Cóndor
+Lechuza
+Golondrina
+Loro
+Koel
+Azulejo
+Secretario
+Garza
+Canario
+Cisne
+Quebrantahuesos
+Frailecillo
+Albatros
+Herrerillo
+Carpintero
+Pavo real
+Martín pescador
+Tucán
+Halcones
+Pinzón
+Cuervo
+Vencejo
+Flamenco
+Chotacabras
+Cárabo
+Guacamaya
+Jilguero
+Pingüino
+Gallina
+Quetzal
+Búho
+Avestruz
+Aguilucho
+Ñandú
+Perico
+Mosquitero
+Paloma
+
+Mamíferos
+León
+Elefante
+Ballena
+Delfín
+Ratón
+Caballo
+Perro
+Lobo
+Vaca
+Oso
+Conejo
+Gorila
+Chimpance
+Jirafa
+Hipopótamo
+Canguro
+Rinoceronte
+Oveja
+Cerdo
+
+Anfibios
+Sapo común
+Sapo gigante
+Salamandra
+Tritón
+Rana venenosa
+Rana de Nueva Zelanda
+Rana de Seychelles
+Rana arborícola
+Rana flecha azul
+Axolotl o ajolote (salamandra mexicana)
+Cecilia
+Pigmeos Salamandra pie plano
+Jalapa tritón falso
+
+Artrópodos
+Insectos
+Arácnidos
+Miriápodos
+Crustáceos
+
+Moluscos
+Cefalópodos
+Bivalvos
+Gasterópodos
+
+Equinodermos
+Estrella de Mar
+Erizo
+
+Gusanos
+Anélidos
+Nematodos
+Platelmintos
+
+Poríferos
+Esponjas
+
+Celentéreos
+Medusas
+Pólipos

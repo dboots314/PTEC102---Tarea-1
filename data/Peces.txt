@@ -1,0 +1,25 @@
+Nombre Peso Color N°Aletas Escamas(Si o No)
+Alfonsino 1.8kg rosa 2 aletas escamas
+Anchoveta 2.2kg verde 2 aletas escamas
+Bacalao de profundidad 3.5kg gris 2 aletas escamas
+Besugo 1.3kg plateado 2 aletas escamas
+Caballa 4.6kg azul 2 aletas escamas
+Congrio dorado 2.8kg marrón 0 aletas escamas
+Congrio negro 11.2kg negro 0 aletas escamas
+Jurel 1.5kg plateado 2 aletas escamas
+Lenguado 2.7kg marrón 2 aletas escamas
+Merluza común 2.9kg plateado 2 aletas escamas
+Merluza de cola 3.8kg plateado 2 aletas escamas
+Merluza de tres aletas 1.7kg plateado 3 aletas escamas
+Merluza del sur 2.1kg plateado 2 aletas escamas
+Orange roughy 2.2kg naranja 2 aletas escamas
+Pejegallo 1.1kg marrón 2 aletas escamas
+Pez espada 152.3kg gris 2 aletas sin escamas
+Puye 1.4kg plateado 2 aletas escamas
+Raya volantín 4.9kg marrón 2 aletas sin escamas
+Reineta 1.8kg gris 2 aletas escamas
+Salmon coho 2.5kg plateado 2 aletas escamas
+Salmón del atlántico 7.2kg plateado 2 aletas escamas
+Sardina austral 13.4g plateado 2 aletas escamas
+Sardina común 28.9g plateado 2 aletas escamas
+Sardina española 15.1g plateado 2 aletas escamas

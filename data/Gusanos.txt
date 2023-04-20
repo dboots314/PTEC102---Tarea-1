@@ -1,0 +1,4 @@
+Nombre Peso Color Tipo
+Anélidos 0.05kg marrón Segmentado
+Nematodos 0.001kg blanco Cilíndrico
+Platelmintos 0.02kg verde Aplanado

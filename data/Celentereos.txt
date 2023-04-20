@@ -1,0 +1,3 @@
+Nombre Peso Color N°De Tentaculos
+Medusas 0.5kg rosa 8 tentáculos
+Pólipos 0.05kg azul 12 tentáculos

@@ -1,0 +1,14 @@
+Nombre Peso Color Piel(Babosa o No)   
+Sapo común 36g Verde No Babosa             
+Sapo gigante 18g Naranja No Babosa             
+Salamandra 30g Azul No Babosa             
+Tritón 32g Rojo Babosa                
+Rana venenosa 39g Negro No Babosa             
+Rana de Nueva Zelanda 27g Verde Babosa                
+Rana de Seychelles 45g Azul Babosa                
+Rana arborícola 23g Rojo No Babosa             
+Rana flecha azul 41g Amarillo Babosa                
+Axolotl o ajolote (salamandra mexicana) 15g Amarillo No Babosa             
+Cecilia 31g Naranja Babosa                
+Pigmeos Salamandra pie plano 37g Negro Babosa                
+Jalapa tritón falso 40g Amarillo No Babosa   

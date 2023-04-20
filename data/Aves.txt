@@ -1,0 +1,40 @@
+Nombre Peso Color N°Alas
+Ganso 29g Blanco 2 alas
+Urraca 13g Negro 2 alas
+Cóndor 24g Marrón 2 alas
+Lechuza 37g Gris 2 alas
+Golondrina 19g Negro 2 alas
+Loro 33g Verde 2 alas
+Koel 26g Marrón 2 alas
+Azulejo 28g Azul 2 alas
+Secretario 18g Gris 2 alas
+Garza 38g Blanco 2 alas
+Canario 15g Amarillo 2 alas
+Cisne 41g Blanco 2 alas
+Quebrantahuesos 30g Negro 2 alas
+Frailecillo 27g Negro 2 alas
+Albatros 25g Blanco 2 alas
+Herrerillo 12g Azul 2 alas
+Carpintero 35g Rojo 2 alas
+Pavo real 39g Verde 2 alas
+Martín pescador 22g Azul 2 alas
+Tucán 21g Negro 2 alas
+Halcones 14g Marrón 2 alas
+Pinzón 16g Marrón 2 alas
+Cuervo 34g Negro 2 alas
+Vencejo 40g Gris 2 alas
+Flamenco 36g Rosa 2 alas
+Chotacabras 23g Gris 2 alas
+Cárabo 31g Marrón 2 alas
+Guacamaya 32g Rojo 2 alas
+Jilguero 20g Amarillo 2 alas
+Pingüino 17g Negro 2 alas
+Gallina 11g Blanco 2 alas
+Quetzal 42g Verde 2 alas
+Búho 43g Gris 2 alas
+Avestruz 44g Marrón 2 alas
+Aguilucho 45g Marrón 2 alas
+Ñandú 46g Marrón 2 alas
+Perico 47g Verde 2 alas
+Mosquitero 48g Gris 2 alas
+Paloma 49g Gris 2 alas

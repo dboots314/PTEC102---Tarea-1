@@ -1,0 +1,3 @@
+Nombre Peso Color Tipo(Estrella o Erizo)
+Estrella de Mar 0.2kg rojo Estrella
+Erizo 0.1kg marrón Erizo

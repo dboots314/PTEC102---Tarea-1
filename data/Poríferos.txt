@@ -1,0 +1,2 @@
+Nombre Peso Color
+Esponjas 0.01kg rosa

@@ -1,0 +1,4 @@
+Nombre Peso Color Tipo de Concha
+Cefalópodos 0.5kg marrón Concha interna
+Bivalvos 0.3kg blanco Concha bivalva
+Gasterópodos 0.05kg rosa Concha univalva

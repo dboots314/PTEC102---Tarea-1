@@ -1,0 +1,21 @@
+Nombre Peso Color Tipo(Tierra, Mar o Ambos)
+Tortugas 250kg Verde Tierra
+Tuátara 1kg Gris Tierra
+Anfisbenio 0.1kg Marrón Tierra
+Iguana 3kg Verde Tierra
+Anolis 0.1kg Verde Tierra
+Lagartija 0.05kg Marrón Tierra
+Chucuala 1kg Verde Tierra
+Agama 0.3kg Marrón Tierra
+Dragón de Komodo 70kg Gris Tierra
+Geco 0.02kg Verde Tierra
+Camaleón 0.1kg Verde Tierra
+Salamanquesa 0.01kg Gris Tierra
+Cocodrilos 500kg Marrón Ambos
+Escinco 0.1kg Verde Tierra
+Eslizón 0.01kg Marrón Tierra
+Teyú 0.2kg Verde Tierra
+Lagarto 50kg Marrón Tierra
+Calango verde 0.1kg Verde Tierra
+Monstruo de Gila 0.3kg Marrón Tierra
+Serpientes 2kg Marrón Tierra

@@ -1,0 +1,14 @@
+#pragma once 
+
+#include "animal.h"
+
+class Equinodermo : public Animal {
+    private:
+        string tipo;
+
+    public:
+        Equinodermo(string _nombre, string _peso, string _color, string tipo);
+
+        // Getters
+        string getTipo() const;
+};

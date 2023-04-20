@@ -1,0 +1,20 @@
+Nombre Peso Color N°Patas
+León 150kg Amarillo 4
+Elefante 3500kg Gris 4
+Ballena 30000kg Negro 0
+Delfín 200kg Gris 0
+Ratón 0.2kg Gris 4
+Caballo 500kg Marrón 4
+Perro 20kg Café 4
+Lobo 50kg Gris 4
+Vaca 700kg Blanco y Negro 4
+Oso 400kg Café 4
+Conejo 1kg Gris 4
+Gorila 200kg Negro 4
+Chimpance 50kg Marrón 4
+Jirafa 1200kg Café y Amarillo 4
+Hipopótamo 1500kg Gris 4
+Canguro 60kg Gris 2
+Rinoceronte 2300kg Gris 4
+Oveja 70kg Blanco 4
+Cerdo 120kg Rosado 4

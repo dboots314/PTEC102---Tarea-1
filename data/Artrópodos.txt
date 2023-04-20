@@ -1,0 +1,5 @@
+Nombre Peso Color N°Pares de Patas Antenas(Si o No)
+Insectos 0.03kg amarillo 8 pares sin antenas
+Arácnidos 0.02kg negro 6 pares con antenas
+Miriápodos 0.01kg rojo 30 pares sin antenas
+Crustáceos 0.1kg azul 10 pares con antenas
