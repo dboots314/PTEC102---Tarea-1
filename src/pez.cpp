@@ -25,4 +25,4 @@ string Pez::getCantidadAletas() const {
     }
 }
 
-string Pez::getEscamas() const { return (escamas) ? "SI" : "NO"; }
+string Pez::getEscamas() const { return (escamas) ? "escamas" : "no escamas"; }

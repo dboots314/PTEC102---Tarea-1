@@ -219,27 +219,27 @@ void insertar_datos(string nombre_archivo, string titulo, Animal* animal) {
         archivo_lectura.close(); // Cerrar el archivo de lectura
         // Escribir los datos del animal en el archivo
         if (Anfibio* anfibio = dynamic_cast<Anfibio*>(animal)) {
-            archivo << anfibio->getNombre() << " " << anfibio->getPeso() << " " << anfibio->getColor() << " " << anfibio->getPielBabosa() << endl;
+            archivo << endl << anfibio->getNombre() << " " << anfibio->getPeso() << " " << anfibio->getColor() << " " << anfibio->getPielBabosa() << endl;
         } else if (Ave* ave = dynamic_cast<Ave*>(animal)) {
-            archivo << ave->getNombre() << " " << ave->getPeso() << " " << ave->getColor() << " " << ave->getCantidadAlas() << endl;
+            archivo << endl << ave->getNombre() << " " << ave->getPeso() << " " << ave->getColor() << " " << ave->getCantidadAlas() << endl;
         } else if (Mamifero* mamifero = dynamic_cast<Mamifero*>(animal)) {
-            archivo << mamifero->getNombre() << " " << mamifero->getPeso() << " " << mamifero->getColor() << " " << mamifero->getCantidadPatas() << endl;
+            archivo << endl << mamifero->getNombre() << " " << mamifero->getPeso() << " " << mamifero->getColor() << " " << mamifero->getCantidadPatas() << endl;
         } else if (Pez* pez = dynamic_cast<Pez*>(animal)) {
-            archivo << pez->getNombre() << " " << pez->getPeso() << " " << pez->getColor() << " " << pez->getCantidadAletas() << " " << pez->getEscamas() << endl;
+            archivo << endl << pez->getNombre() << " " << pez->getPeso() << " " << pez->getColor() << " " << pez->getCantidadAletas() << " " << pez->getEscamas() << endl;
         } else if (Reptil* reptil = dynamic_cast<Reptil*>(animal)) {
-            archivo << reptil->getNombre() << " " << reptil->getPeso() << " " << reptil->getColor() << " " << reptil->getTipo() << endl;
+            archivo << endl << reptil->getNombre() << " " << reptil->getPeso() << " " << reptil->getColor() << " " << reptil->getTipo() << endl;
         } else if (Antropodo* antropodo = dynamic_cast<Antropodo*>(animal)) {
-            archivo << antropodo->getNombre() << " " << antropodo->getPeso() << " " << antropodo->getColor() << " " << antropodo->getCantidadParesPatas() << " " << antropodo->getAntenas() << endl;
+            archivo << endl << antropodo->getNombre() << " " << antropodo->getPeso() << " " << antropodo->getColor() << " " << antropodo->getCantidadParesPatas() << " " << antropodo->getAntenas() << endl;
         } else if (Molusco* molusco = dynamic_cast<Molusco*>(animal)) {
-            archivo << molusco->getNombre() << " " << molusco->getPeso() << " " << molusco->getColor() << " " << molusco->getTipoConcha() << endl;
+            archivo << endl << molusco->getNombre() << " " << molusco->getPeso() << " " << molusco->getColor() << " " << molusco->getTipoConcha() << endl;
         } else if (Equinodermo* equinodermo = dynamic_cast<Equinodermo*>(animal)) {
-            archivo << equinodermo->getNombre() << " " << equinodermo->getPeso() << " " << equinodermo->getColor() << " " << equinodermo->getTipo() << endl;
+            archivo << endl << equinodermo->getNombre() << " " << equinodermo->getPeso() << " " << equinodermo->getColor() << " " << equinodermo->getTipo() << endl;
         } else if (Gusano* gusano = dynamic_cast<Gusano*>(animal)) {
-            archivo << gusano->getNombre() << " " << gusano->getPeso() << " " << gusano->getColor() << " " << gusano->getTipo() << endl;
+            archivo << endl << gusano->getNombre() << " " << gusano->getPeso() << " " << gusano->getColor() << " " << gusano->getTipo() << endl;
         } else if (Porifero* porifero = dynamic_cast<Porifero*>(animal)) {
-            archivo << porifero->getNombre() << " " << porifero->getPeso() << " " << porifero->getColor() << endl;
+            archivo << endl << porifero->getNombre() << " " << porifero->getPeso() << " " << porifero->getColor() << endl;
         } else if (Celentereo* celentereo = dynamic_cast<Celentereo*>(animal)) {
-            archivo << celentereo->getNombre() << " " << celentereo->getPeso() << " " << celentereo->getColor() << " " << celentereo->getCantidadTentaculos() << endl;
+            archivo << endl << celentereo->getNombre() << " " << celentereo->getPeso() << " " << celentereo->getColor() << " " << celentereo->getCantidadTentaculos() << endl;
         } else {
             exit(1);
         }
